@@ -9,6 +9,8 @@ Multiple profiles using layers in VIAL (not sure of qmk configurator alternative
 - QMK firmware (UF2)
 - QMK configurator/VIAL (I am using VIAL)
 
+### BOM
+
 |No.|Quantity|Item|
 |---|--------|----|
 |1|16|1N4148 Diode|
